@@ -16,7 +16,7 @@ re
 
 ## 1. Data Collection : 
   
-  For the data collection I have downloaded 7-8 program types of bot the language type i.e. 7-8 java programs and 7-8 Python programs
+  For the data collection I have downloaded sample programs for both the language type i.e. both java and Python programs
 ## 2. Data Processing : 
 1. I have kept the above programs in respective folder type in sample files folder.
 2. Iterate over the folders using os.walk and read the content of the files.
@@ -33,3 +33,6 @@ re
 7. Predicting the file type of our test files. It contains 3 file types "ipynb", "py", and "java" file. 
 8. Checking the results of our prediction.
 
+# Best Part:
+
+**The best part about this project is that the more the sample program types ypu will provide the more accurately it will be able to detect the file type. Also currently the sample files do not include .net program, ruby or other programs. Buit if you provide sample files for those languages also, it will be able to predict the file types for those languages. It's pretty dynamic.**
