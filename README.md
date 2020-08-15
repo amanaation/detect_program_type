@@ -14,7 +14,7 @@ re
 
 # How it works :
 
-## 1. Data Colection : 
+## 1. Data Collection : 
   
   For the data collection I have downloaded 7-8 program types of bot the language type i.e. 7-8 java programs and 7-8 Python programs
 ## 2. Data Processing : 
