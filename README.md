@@ -6,12 +6,19 @@ In this Project I have used the concept of Bag of Words to detremine the file/pr
 
 Following are the modules used : 
 en_core_web_sm
+
 os
+
 pandas as pd
+
 random
+
 string 
+
 spacy
+
 spacy.util.minibatch
+
 re
 
 # How it works :
