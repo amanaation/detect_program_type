@@ -2,6 +2,8 @@
 
 In this Project I have used the concept of Bag of Words to detremine the file/program type i.e whether the program is a Java program or Python Program. Currentlly the code is able to distinguish between only this 2 Program types. I am working to make it able to predict more program types.
 
+[![Prediction Results](/images/prediction_results.png)]
+
 Following are the modules used : 
 en_core_web_sm
 os
